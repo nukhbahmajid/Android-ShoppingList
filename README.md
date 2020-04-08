@@ -14,6 +14,14 @@ Listify provides the user with the ability to store their shopping list on their
 
 The items appear on the main shopping list page with relevant information as well as an icon indicating the category of the item as selected by the user. Items can be edited by clicking on the edit button in the item's specific dialog - prompting another dialog fragment to make changes to the item info. Items can also be deleted individually by button or swiping left or right. Items can be ordered by dragging the item dialog up and down. The user also has the ability to delete all the items from the list by clicking the floating trash can button next to the + button. All the added, edited, and deleted items are persistently stored in a RoomDatabase. 
 
+
+
+<p align="center">
+  <img src="UI/splash_screen.png" width="256" height="495">
+  <img src="UI/shopping_list.png" width="256" height="495">
+  <img src="UI/edit-item.png" width="256" height="495">
+</p>
+
 ## Repository structure 
 ```
 ├── README.md                                 : ReadMe description of the project
@@ -52,3 +60,9 @@ The items appear on the main shopping list page with relevant information as wel
 # Future Improvements 
 
 The layout design is hardcoded is certain activities. I hope to make the layout components relative to android versions after learning a bit more about converting design to xml layout files effectively.  
+
+### Contributors
+
+Nukhbah Majid
+
+(inspiration from Péter Ekler's demo project - To Do List)
