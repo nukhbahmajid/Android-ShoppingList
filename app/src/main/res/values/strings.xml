@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Listify</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Electronics</item>
+        <item>Misc</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="itemNameHint">Enter item name</string>
+    <string name="itemPriceHint">Enter estimate for the price</string>
+    <string name="itemDescHint">Enter description of item</string>
+    <string name="bought">Bought</string>
+    <string name="itemNameSample">sample name</string>
+    <string name="itemPriceSample">10</string>
+    <string name="itemDescSample">This is an item description</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+</resources>
